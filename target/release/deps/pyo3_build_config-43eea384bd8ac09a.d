@@ -1,0 +1,14 @@
+/home/mohdismailmatasin/Desktop/meta-inspector/target/release/deps/libpyo3_build_config-43eea384bd8ac09a.rmeta: /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config-file.txt /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config.txt
+
+/home/mohdismailmatasin/Desktop/meta-inspector/target/release/deps/libpyo3_build_config-43eea384bd8ac09a.rlib: /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config-file.txt /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config.txt
+
+/home/mohdismailmatasin/Desktop/meta-inspector/target/release/deps/pyo3_build_config-43eea384bd8ac09a.d: /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config-file.txt /home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config.txt
+
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs:
+/home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config-file.txt:
+/home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=/home/mohdismailmatasin/Desktop/meta-inspector/target/release/build/pyo3-build-config-e09b9e8bac677d4c/out

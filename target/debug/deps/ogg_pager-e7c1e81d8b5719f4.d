@@ -1,0 +1,10 @@
+/home/mohdismailmatasin/Documents/Script/rust/metadata/target/debug/deps/libogg_pager-e7c1e81d8b5719f4.rmeta: /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/lib.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/crc.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/error.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/header.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/packets.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/paginate.rs
+
+/home/mohdismailmatasin/Documents/Script/rust/metadata/target/debug/deps/ogg_pager-e7c1e81d8b5719f4.d: /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/lib.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/crc.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/error.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/header.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/packets.rs /home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/paginate.rs
+
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/lib.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/crc.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/error.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/header.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/packets.rs:
+/home/mohdismailmatasin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ogg_pager-0.7.0/src/paginate.rs:

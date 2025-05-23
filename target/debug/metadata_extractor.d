@@ -1,0 +1,1 @@
+/home/mohdismailmatasin/Documents/Script/rust/metadata/target/debug/metadata_extractor: /home/mohdismailmatasin/Documents/Script/rust/metadata/metadata.rs /home/mohdismailmatasin/Documents/Script/rust/metadata/src/main.rs
